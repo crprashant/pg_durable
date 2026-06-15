@@ -33,3 +33,4 @@ updates:
       cargo:
         patterns:
           - "*"
+# trigger: live test run
